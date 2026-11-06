@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "judul": "Pengumuman Jadwal Ujian Akhir Semester Ganjil",
+    "tanggal": "2026-11-02",
+    "kategori": "Penting",
+    "isi": "Ujian Akhir Semester (UAS) Ganjil akan dilaksanakan mulai tanggal 1 Desember 2026 sampai dengan 12 Desember 2026. Seluruh siswa wajib hadir 15 menit sebelum ujian dimulai dan membawa kartu ujian. Siswa yang belum melunasi administrasi diharapkan segera menyelesaikannya melalui tata usaha paling lambat 25 November 2026."
+  },
+  {
+    "id": 2,
+    "judul": "Juara 1 Lomba Cerdas Cermat Tingkat Provinsi",
+    "tanggal": "2026-10-28",
+    "kategori": "Prestasi",
+    "isi": "Tim cerdas cermat sekolah kita berhasil meraih juara 1 pada Lomba Cerdas Cermat tingkat Provinsi. Tim terdiri dari tiga siswa kelas XI yang telah berlatih selama dua bulan di bawah bimbingan guru pembina. Kepala sekolah menyampaikan apresiasi dan akan memberikan penghargaan pada upacara bendera hari Senin."
+  },
+  {
+    "id": 3,
+    "judul": "Libur Sekolah Memperingati Hari Pahlawan",
+    "tanggal": "2026-11-05",
+    "kategori": "Penting",
+    "isi": "Sehubungan dengan peringatan Hari Pahlawan, seluruh kegiatan belajar mengajar diliburkan pada tanggal 10 November 2026. Kegiatan belajar akan kembali berjalan normal pada hari berikutnya. Siswa diharapkan memanfaatkan waktu libur dengan kegiatan yang bermanfaat."
+  },
+  {
+    "id": 4,
+    "judul": "Kegiatan Ekstrakurikuler Pramuka Hari Jumat",
+    "tanggal": "2026-10-25",
+    "kategori": "Kegiatan",
+    "isi": "Kegiatan ekstrakurikuler Pramuka dilaksanakan setiap hari Jumat pukul 14.00 WIB di lapangan sekolah. Seluruh anggota diharapkan mengenakan seragam lengkap. Pada pertemuan mendatang akan dilakukan latihan persiapan perkemahan akhir tahun."
+  },
+  {
+    "id": 5,
+    "judul": "Pembukaan Perpustakaan Digital Sekolah",
+    "tanggal": "2026-10-20",
+    "kategori": "Informasi",
+    "isi": "Perpustakaan digital sekolah kini resmi dibuka. Siswa dapat mengakses ribuan buku elektronik menggunakan akun masing-masing yang dibagikan wali kelas. Layanan dapat diakses setiap hari selama 24 jam melalui jaringan Wi-Fi sekolah maupun dari rumah."
+  },
+  {
+    "id": 6,
+    "judul": "Pengambilan Rapor Tengah Semester",
+    "tanggal": "2026-10-15",
+    "kategori": "Penting",
+    "isi": "Pengambilan rapor tengah semester dilaksanakan pada hari Sabtu, 17 Oktober 2026, pukul 08.00 sampai 12.00 WIB. Rapor wajib diambil langsung oleh orang tua atau wali murid. Mohon membawa kartu identitas untuk keperluan verifikasi."
+  },
+  {
+    "id": 7,
+    "judul": "Turnamen Futsal Antar Kelas Dimulai",
+    "tanggal": "2026-10-10",
+    "kategori": "Kegiatan",
+    "isi": "Turnamen futsal antar kelas akan dimulai minggu depan di lapangan olahraga sekolah. Pendaftaran tim dibuka sampai Jumat ini melalui ketua OSIS. Setiap kelas dapat mengirimkan maksimal satu tim beranggotakan delapan orang."
+  },
+  {
+    "id": 8,
+    "judul": "Juara 2 Lomba Band Tingkat Nasional",
+    "tanggal": "2026-10-13",
+    "kategori": "Prestasi",
+    "isi": "Tim band sekolah kita berhasil meraih prestasi gemilang sebagai juara 2 pada Lomba Band tingkat kabupaten yang diselenggarakan di Jl.Bebas Aja. Band yang digawangi oleh para siswa utusan sekolah ini telah berlatih intensif selama beberapa minggu di bawah bimbingan guru pembina dan pelatih musik. Pihak sekolah menyampaikan apresiasi dan rasa bangga yang tinggi atas kerja keras serta dedikasi para anggota band yang telah mengharumkan nama sekolah di kencah seni musik. "
+  }
+]
